@@ -35,4 +35,4 @@ O projeto foi estruturado utilizando um objeto principal chamado `buscarPersonag
 - [ ] Criar um botão de "Personagem Aleatório".
 
 ---
-Desenvolvido com 🧠 e muito café por **João Dorini**.
+Desenvolvido por **João Dorini**.
